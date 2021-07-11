@@ -1525,8 +1525,8 @@
     "terminal.background": "#222634",
     "terminal.foreground": "#9aa5c4",
     "terminal.selectionBackground": "#756f7d12",
-    "terminalCursor.background": "#878cba7c",
-    "terminalCursor.foreground": "#ffffff",
+    // "terminalCursor.background": "#878cba7c",
+    // "terminalCursor.foreground": "#ffffff",
     "terminal.border": "#474d64",
     "terminal.ansiBlack": "#8e8e8e",
     "terminal.ansiBlue": "#3a7ec9",
@@ -1648,6 +1648,9 @@
     "breadcrumb.activeSelectionForeground": "#e3e9ff",
     "editorGutter.commentRangeForeground": "#8a99d1",
     "debugExceptionWidget.background": "#1e212c",
-    "debugExceptionWidget.border": "#51577100"
+    "debugExceptionWidget.border": "#51577100",
+    "gitlens.trailingLineForegroundColor": "#565F88",
+    "gitlens.gutterUncommittedForegroundColor": "#565F88",
+    "gitlens.gutterForegroundColor": "#565F88"
   }
 }
