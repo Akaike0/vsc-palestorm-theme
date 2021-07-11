@@ -1,0 +1,53 @@
+{
+  "name": "palestorm",
+  "displayName": "Palestorm",
+  "description": "A pale theme for your eyes",
+  "version": "1.0.0",
+  "publisher": "alexanderalekseenko",
+  "license": "MIT",
+  "author": "Alexander Alekseenko",
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#2A2D3E",
+    "theme": "dark"
+  },
+  "homepage": "https://mycode.io",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Akaike0/vsc-palestorm-theme.git"
+  },
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "keywords": [
+    "Awesome theme",
+    "Dark theme",
+    "Pale theme",
+    "Pale",
+    "Palenight based theme",
+    "Palenight",
+    "Palestorm",
+    "Purple theme",
+    "Purple",
+    "Theme",
+    "Themes",
+    "VSCode"
+  ],
+  "extensionKind": [
+    "ui",
+    "workspace"
+  ],
+  "engines": {
+    "vscode": "^1.18.0"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Palestorm",
+        "path": "./themes/palestorm.json",
+        "uiTheme": "vs-dark"
+      }
+    ]
+  }
+}
