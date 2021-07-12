@@ -2,7 +2,7 @@
   "name": "palestorm",
   "displayName": "Palestorm",
   "description": "A pale theme for your eyes",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "publisher": "alexanderalekseenko",
   "license": "MIT",
   "author": "Alexander Alekseenko",
@@ -45,9 +45,15 @@
     "themes": [
       {
         "label": "Palestorm",
-        "path": "./themes/palestorm.json",
+        "path": "./themes/palestorm-color-theme.json",
         "uiTheme": "vs-dark"
       }
     ]
+  },
+  "__metadata": {
+    "id": "2bf6279c-66bf-4938-987e-2fb28c96dd39",
+    "publisherId": "0bdbc8ec-d45b-4dab-b01b-e5fbca0882b3",
+    "publisherDisplayName": "Alexander Alekseenko",
+    "installedTimestamp": 1626083322083
   }
 }
