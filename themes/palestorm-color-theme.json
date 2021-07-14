@@ -1530,7 +1530,7 @@
     "editorInfo.border": "#00000000",
 
     "editorGutter.background": "#282d3f",
-    "editorGutter.modifiedBackground": "#ffd76d",
+    "editorGutter.modifiedBackground": "#ffd75d",
     "editorGutter.addedBackground": "#bad761",
     "editorGutter.deletedBackground": "#ff657a",
     "editorGutter.foldingControlForeground": "#8a99d1",
