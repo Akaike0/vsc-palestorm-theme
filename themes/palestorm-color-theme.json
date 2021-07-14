@@ -1412,7 +1412,7 @@
 
     "list.inactiveSelectionBackground": "#292e3f",
     "list.inactiveSelectionForeground": "#c0ceff",
-    "list.hoverBackground": "#252938",
+    "list.hoverBackground": "#1e212d",
     "list.hoverForeground": "#cbd7ff",
     "list.activeSelectionBackground": "#292e3f",
     "list.activeSelectionForeground": "#c0ceff",
@@ -1637,10 +1637,10 @@
     "merge.commonContentBackground": "#EAF2F116",
     "editorSuggestWidget.background": "#222634",
     "editorSuggestWidget.border": "#484e66",
-    "editorSuggestWidget.foreground": "#ebeaff",
+    "editorSuggestWidget.foreground": "#7b85ac",
     "editorSuggestWidget.highlightForeground": "#ff728c",
     "editorSuggestWidget.selectedBackground": "#1f222e",
-    "editorHoverWidget.foreground": "#ebeaff",
+    "editorHoverWidget.foreground": "#c0ceff",
     "editorHoverWidget.background": "#222634",
     "editorHoverWidget.border": "#484e66",
 
