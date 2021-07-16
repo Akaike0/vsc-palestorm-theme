@@ -9,7 +9,7 @@ A Palenight based theme with more contrast, features like semantic highlighting 
 ## Installation
 
 ```
-1. Search for Palestorm in VS Code Extensions, select "Palestorm Theme" by Alexander Alekseenko
+1. Search for "Palestorm" in VS Code Extensions, select "Palestorm" by Alexander Alekseenko
 2. Click Install
 3. Go to Preferences > Color Theme and select Palestorm
 ```

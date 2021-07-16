@@ -2,7 +2,7 @@
   "name": "palestorm",
   "displayName": "Palestorm",
   "description": "A pale theme for your eyes",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "publisher": "alexanderalekseenko",
   "license": "MIT",
   "author": "Alexander Alekseenko",
@@ -21,18 +21,13 @@
     "Other"
   ],
   "keywords": [
-    "Awesome theme",
-    "Dark theme",
-    "Pale theme",
-    "Pale",
-    "Palenight based theme",
-    "Palenight",
-    "Palestorm",
-    "Purple theme",
-    "Purple",
-    "Theme",
+    "VSCode",
     "Themes",
-    "VSCode"
+    "Purple",
+    "Dark theme",
+    "Theme",
+    "Pale theme",
+    "Awesome theme"
   ],
   "extensionKind": [
     "ui",

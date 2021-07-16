@@ -1,40 +1,8 @@
 {
   "name": "Palestorm",
   "type": "dark",
-  "semanticHighlighting": true,
-  "semanticTokenColors": {
-    "parameter.declaration": {
-      "foreground": "#e7b872"
-    },
-    "parameter": {
-      "foreground": "#cfc9c2"
-    },
-    "property.declaration": {
-      "foreground": "#C0CAF5"
-    },
-    "property.defaultLibrary": {
-      "foreground": "#C0CAF5"
-    },
-    "*.defaultLibrary": {
-      "foreground": "#82AAFF"
-    },
-    "variable.defaultLibrary": {
-      "foreground": "#C0CAF5"
-    },
-    "variable.declaration": {
-      "foreground": "#82AAFF"
-    },
-    "variable": {
-      "foreground": "#c0caf5"
-    }
-  },
+  "semanticClass": "palestorm-color-theme",
   "tokenColors": [
-    {
-      "name": "Global settings",
-      "settings": {
-        "foreground": "#bfc6e6"
-      }
-    },
     {
       "name": "Comment",
       "scope": "comment",
@@ -61,7 +29,7 @@
       "name": "String Unquoted",
       "scope": "string.unquoted",
       "settings": {
-        "foreground": "#bfc6e6"
+        "foreground": "#C0CAF5"
       }
     },
     {
@@ -86,7 +54,7 @@
         "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#BB9AF7"
+        "foreground": "#82AAFF"
       }
     },
     {
@@ -171,7 +139,7 @@
       "name": "Function Parameters",
       "scope": "variable.parameter",
       "settings": {
-        "foreground": "#e7b872"
+        "foreground": "#8691EA"
       }
     },
     {
@@ -245,7 +213,6 @@
       "name": "Invalid",
       "scope": "invalid",
       "settings": {
-        "background": "#ff2c83",
         "foreground": "#ffffff"
       }
     },
@@ -253,8 +220,7 @@
       "name": "Invalid deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "foreground": "#ffffff",
-        "background": "#d3423e"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -303,7 +269,7 @@
       "name": "Meta Brace",
       "scope": "meta.brace",
       "settings": {
-        "foreground": "#bfc6e6"
+        "foreground": "#C0CAF5"
       }
     },
     {
@@ -486,15 +452,13 @@
       "name": "Invalid Broken",
       "scope": "invalid.broken",
       "settings": {
-        "foreground": "#020e14",
-        "background": "#F78C6C"
+        "foreground": "#020e14"
       }
     },
     {
       "name": "Invalid Unimplemented",
       "scope": "invalid.unimplemented",
       "settings": {
-        "background": "#8BD649",
         "foreground": "#ffffff"
       }
     },
@@ -502,8 +466,7 @@
       "name": "Invalid Illegal",
       "scope": "invalid.illegal",
       "settings": {
-        "foreground": "#ffffff",
-        "background": "#ec5f67"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -558,7 +521,7 @@
         "meta.array"
       ],
       "settings": {
-        "foreground": "#bfc6e6"
+        "foreground": "#C0CAF5"
       }
     },
     {
@@ -584,7 +547,7 @@
       "name": "Backtics(``) in Template Strings",
       "scope": "string.template punctuation.definition.string",
       "settings": {
-        "foreground": "#bfc6e6"
+        "foreground": "#C0CAF5"
       }
     },
     {
@@ -629,7 +592,7 @@
       "name": "CoffeScript Parameter Function",
       "scope": "variable.parameter.function.coffee",
       "settings": {
-        "foreground": "#bfc6e6"
+        "foreground": "#C0CAF5"
       }
     },
     {
@@ -643,7 +606,7 @@
       "name": "C# Readwrite Variables",
       "scope": "variable.other.readwrite.cs",
       "settings": {
-        "foreground": "#bfc6e6"
+        "foreground": "#C0CAF5"
       }
     },
     {
@@ -728,7 +691,7 @@
         "source.ts source.css meta.property-list punctuation.separator.comma"
       ],
       "settings": {
-        "foreground": "#bfc6e6"
+        "foreground": "#C0CAF5"
       }
     },
     {
@@ -793,7 +756,7 @@
       "name": "GraphQL Variables",
       "scope": "variable.qraphql",
       "settings": {
-        "foreground": "#bfc6e6"
+        "foreground": "#C0CAF5"
       }
     },
     {
@@ -829,22 +792,21 @@
       "name": "JavaScript Method Declaration e.g. `constructor`",
       "scope": "meta.method.declaration storage.type.js",
       "settings": {
-        "foreground": "#82AAFF",
-        "fontStyle": ""
+        "foreground": "#82AAFF"
       }
     },
     {
       "name": "JavaScript Terminator",
       "scope": "terminator.js",
       "settings": {
-        "foreground": "#bfc6e6"
+        "foreground": "#C0CAF5"
       }
     },
     {
       "name": "JavaScript Meta Punctuation Definition",
       "scope": "meta.js punctuation.definition.js",
       "settings": {
-        "foreground": "#bfc6e6"
+        "foreground": "#C0CAF5"
       }
     },
     {
@@ -861,7 +823,7 @@
       "name": "Other Variables in Code Documentations",
       "scope": ["variable.other.jsdoc", "variable.other.phpdoc"],
       "settings": {
-        "foreground": "#78CCF0"
+        "foreground": "#78ccf0"
       }
     },
     {
@@ -873,21 +835,21 @@
         "meta.export.js variable.other"
       ],
       "settings": {
-        "foreground": "#BFC6E6"
+        "foreground": "#C0CAF5"
       }
     },
     {
       "name": "JavaScript Variable Parameter Function",
       "scope": "variable.parameter.function.js",
       "settings": {
-        "foreground": "#e7b872"
+        "foreground": "#8691EA"
       }
     },
     {
       "name": "JavaScript Variable Other ReadWrite",
       "scope": "variable.other.readwrite.js",
       "settings": {
-        "foreground": "#bfc6e6"
+        "foreground": "#C0CAF5"
       }
     },
     {
@@ -898,7 +860,7 @@
         "meta.jsx.children.tsx"
       ],
       "settings": {
-        "foreground": "#bfc6e6"
+        "foreground": "#C0CAF5"
       }
     },
     {
@@ -912,14 +874,14 @@
         "variable.object.property.jsx"
       ],
       "settings": {
-        "foreground": "#bfc6e6"
+        "foreground": "#C0CAF5"
       }
     },
     {
       "name": "JavaScript Variables",
       "scope": ["variable.js", "variable.other.js"],
       "settings": {
-        "foreground": "#bfc6e6"
+        "foreground": "#C0CAF5"
       }
     },
     {
@@ -933,15 +895,14 @@
       "name": "JavaScript Support Classes",
       "scope": "support.class.js",
       "settings": {
-        "foreground": "#bfc6e6"
+        "foreground": "#C0CAF5"
       }
     },
     {
       "name": "JSON Property Names",
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#C3E88D",
-        "fontStyle": "normal"
+        "foreground": "#C3E88D"
       }
     },
     {
@@ -955,16 +916,14 @@
       "name": "JSON Property values (string)",
       "scope": "meta.structure.dictionary.value.json string.quoted.double",
       "settings": {
-        "foreground": "#80CBC4",
-        "fontStyle": "normal"
+        "foreground": "#80CBC4"
       }
     },
     {
       "name": "Strings in JSON values",
       "scope": "string.quoted.double.json punctuation.definition.string.json",
       "settings": {
-        "foreground": "#80CBC4",
-        "fontStyle": "normal"
+        "foreground": "#80CBC4"
       }
     },
     {
@@ -978,7 +937,7 @@
       "name": "Ruby Variables",
       "scope": "variable.other.ruby",
       "settings": {
-        "foreground": "#bfc6e6"
+        "foreground": "#C0CAF5"
       }
     },
     {
@@ -1082,7 +1041,7 @@
         "string.other.link.description.markdown"
       ],
       "settings": {
-        "foreground": "#bfc6e6"
+        "foreground": "#C0CAF5"
       }
     },
     {
@@ -1136,7 +1095,7 @@
       "name": "Punctuations in PHP function calls",
       "scope": "meta.function-call.php punctuation",
       "settings": {
-        "foreground": "#bfc6e6"
+        "foreground": "#C0CAF5"
       }
     },
     {
@@ -1167,7 +1126,7 @@
         "meta.function-call.arguments.python"
       ],
       "settings": {
-        "foreground": "#e7b872"
+        "foreground": "#8691EA"
       }
     },
     {
@@ -1184,7 +1143,7 @@
       "name": "Punctuations in Python",
       "scope": "punctuation.python",
       "settings": {
-        "foreground": "#bfc6e6"
+        "foreground": "#C0CAF5"
       }
     },
     {
@@ -1267,14 +1226,14 @@
         "variable.ts"
       ],
       "settings": {
-        "foreground": "#bfc6e6"
+        "foreground": "#C0CAF5"
       }
     },
     {
       "name": "TypeScript[React] Entity Name Types",
       "scope": ["entity.name.type.ts", "entity.name.type.tsx"],
       "settings": {
-        "foreground": "#C0CAF5"
+        "foreground": "#78ccf0"
       }
     },
     {
@@ -1303,7 +1262,7 @@
         "meta.export.tsx punctuation.definition.block"
       ],
       "settings": {
-        "foreground": "#bfc6e6"
+        "foreground": "#C0CAF5"
       }
     },
     {
@@ -1355,7 +1314,7 @@
       "name": "handlebars enitity attribute values",
       "scope": "entity.other.attribute-value.handlebars variable.parameter.handlebars",
       "settings": {
-        "foreground": "#e7b872"
+        "foreground": "#8691EA"
       }
     },
     {
@@ -1383,9 +1342,7 @@
         "punctuation.definintion.string",
         "punctuation"
       ],
-      "settings": {
-        "fontStyle": ""
-      }
+      "settings": {}
     }
   ],
   "colors": {
@@ -1404,7 +1361,7 @@
     "activityBar.activeBorder": "#c0ceff",
 
     "sideBar.background": "#222634",
-    "sideBar.foreground": "#8a95c0",
+    "sideBar.foreground": "#7882A5",
     "sideBarSectionHeader.background": "#00000000",
     "sideBarSectionHeader.foreground": "#B4BDDB",
     "sideBarTitle.foreground": "#a4adc7",
@@ -1619,9 +1576,9 @@
     "gitDecoration.conflictingResourceForeground": "#ff9b4e",
     "gitDecoration.deletedResourceForeground": "#ff647b",
     "gitDecoration.ignoredResourceForeground": "#697098a9",
-    "gitDecoration.modifiedResourceForeground": "#ffd76e",
+    "gitDecoration.modifiedResourceForeground": "#ffd75d",
     "gitDecoration.stageDeletedResourceForeground": "#ff647b",
-    "gitDecoration.stageModifiedResourceForeground": "#ffd76e",
+    "gitDecoration.stageModifiedResourceForeground": "#ffd75d",
     "gitDecoration.submoduleResourceForeground": "#8db9e2",
     "gitDecoration.untrackedResourceForeground": "#ff9b4e",
 
