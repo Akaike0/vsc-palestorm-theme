@@ -5,7 +5,9 @@ A Palenight based theme with more contrast, features like semantic highlighting 
 ## Screenshots
 
 ![Palestorm](https://raw.githubusercontent.com/Akaike0/vsc-palestorm-theme/main/palestorm_screenshot.png)
-Icons used in screenshot: [@Material-Theme Icons Palenight](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) - not included
+
+- Folder icons: [@Material-Theme Icons Palenight](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) - not included
+- Product icons: [@MCarnbon Icons](https://marketplace.visualstudio.com/items?itemName=antfu.icons-carbon) - not included
 
 ## Installation
 
