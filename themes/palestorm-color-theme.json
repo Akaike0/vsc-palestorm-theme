@@ -1346,7 +1346,7 @@
     }
   ],
   "colors": {
-    "foreground": "#eaf2f2",
+    "foreground": "#c0ceff",
     "focusBorder": "#4a5475",
     "selection.background": "#353b51",
     "scrollbar.shadow": "#0a0a0a00",
@@ -1377,7 +1377,7 @@
     "list.highlightForeground": "#c0ceff",
     "list.focusBackground": "#252938",
     "list.focusForeground": "#c9d7e4",
-    "list.errorForeground": "#FF6B60",
+    "list.errorForeground": "#FF5370",
     "list.warningForeground": "#FF9B4E",
 
     "listFilterWidget.background": "#1d202c",
@@ -1476,7 +1476,7 @@
     "editorOverviewRuler.background": "#22263422",
     "editorOverviewRuler.border": "#1f222e00",
 
-    "editorError.foreground": "#FF656A",
+    "editorError.foreground": "#FF5370",
     "editorError.background": "#B73A3400",
     "editorError.border": "#00000000",
     "editorWarning.foreground": "#FF9B4E",
