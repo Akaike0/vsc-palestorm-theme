@@ -36,7 +36,7 @@
       "name": "Support Constant Math",
       "scope": "support.constant.math",
       "settings": {
-        "foreground": "#FFCB6B"
+        "foreground": "#c0ceff"
       }
     },
     {
@@ -54,7 +54,7 @@
         "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#c0ceff"
       }
     },
     {
@@ -82,7 +82,7 @@
       "name": "Comma in functions",
       "scope": "meta.function punctuation.separator.comma",
       "settings": {
-        "foreground": "#eeffff"
+        "foreground": "#82AAFF"
       }
     },
     {
@@ -139,7 +139,7 @@
       "name": "Function Parameters",
       "scope": "variable.parameter",
       "settings": {
-        "foreground": "#8691EA"
+        "foreground": "#F78C6C"
       }
     },
     {
@@ -164,7 +164,7 @@
         "meta.tag.html"
       ],
       "settings": {
-        "foreground": "#ff5572"
+        "foreground": "#F07178"
       }
     },
     {
@@ -262,7 +262,7 @@
       "name": "Null",
       "scope": "constant.language.null",
       "settings": {
-        "foreground": "#ff5874"
+        "foreground": "#F07178"
       }
     },
     {
@@ -290,7 +290,7 @@
       "name": "Boolean",
       "scope": "constant.language.boolean",
       "settings": {
-        "foreground": "#ff5874"
+        "foreground": "#F07178"
       }
     },
     {
@@ -323,7 +323,7 @@
       "name": "Entity Name tag reference in stylesheets",
       "scope": "meta.property-list entity.name.tag.reference",
       "settings": {
-        "foreground": "#ff5572"
+        "foreground": "#F07178"
       }
     },
     {
@@ -406,7 +406,7 @@
         "variable.other.readwrite.instance"
       ],
       "settings": {
-        "foreground": "#ff5572"
+        "foreground": "#F07178"
       }
     },
     {
@@ -473,7 +473,7 @@
       "name": "Language Variable",
       "scope": "variable.language",
       "settings": {
-        "foreground": "#ff5572"
+        "foreground": "#F07178"
       }
     },
     {
@@ -508,7 +508,7 @@
       "name": "Punctuation Section Embedded",
       "scope": "punctuation.section.embedded",
       "settings": {
-        "foreground": "#d3423e"
+        "foreground": "#F07178"
       }
     },
     {
@@ -540,7 +540,7 @@
       "name": "Template Strings",
       "scope": "string.template meta.template.expression",
       "settings": {
-        "foreground": "#d3423e"
+        "foreground": "#F07178"
       }
     },
     {
@@ -631,7 +631,7 @@
         "entity.name.tag.custom.css"
       ],
       "settings": {
-        "foreground": "#ff5572"
+        "foreground": "#F07178"
       }
     },
     {
@@ -643,7 +643,7 @@
         "entity.name.tag.wildcard.sass"
       ],
       "settings": {
-        "foreground": "#ff5572"
+        "foreground": "#F07178"
       }
     },
     {
@@ -816,7 +816,7 @@
         "entity.name.type.instance.phpdoc"
       ],
       "settings": {
-        "foreground": "#eeffff"
+        "foreground": "#82AAFF"
       }
     },
     {
@@ -842,7 +842,7 @@
       "name": "JavaScript Variable Parameter Function",
       "scope": "variable.parameter.function.js",
       "settings": {
-        "foreground": "#8691EA"
+        "foreground": "#F78C6C"
       }
     },
     {
@@ -909,7 +909,7 @@
       "name": "JSON Support Constants",
       "scope": "support.constant.json",
       "settings": {
-        "foreground": "#FFCB6B"
+        "foreground": "#c0ceff"
       }
     },
     {
@@ -930,7 +930,7 @@
       "name": "Specific JSON Property values like null",
       "scope": "meta.structure.dictionary.json meta.structure.dictionary.value constant.language",
       "settings": {
-        "foreground": "#ff5874"
+        "foreground": "#F07178"
       }
     },
     {
@@ -951,7 +951,7 @@
       "name": "LESS Tag names",
       "scope": "entity.name.tag.less",
       "settings": {
-        "foreground": "#ff5572"
+        "foreground": "#F07178"
       }
     },
     {
@@ -1060,7 +1060,7 @@
       "name": "Markdown MetaData Punctuation",
       "scope": ["punctuation.definition.metadata.markdown"],
       "settings": {
-        "foreground": "#ff5572"
+        "foreground": "#F07178"
       }
     },
     {
@@ -1116,7 +1116,7 @@
       "name": "Language Constants in Python",
       "scope": "constant.language.python",
       "settings": {
-        "foreground": "#ff5874"
+        "foreground": "#F07178"
       }
     },
     {
@@ -1126,7 +1126,7 @@
         "meta.function-call.arguments.python"
       ],
       "settings": {
-        "foreground": "#8691EA"
+        "foreground": "#F78C6C"
       }
     },
     {
@@ -1206,7 +1206,7 @@
       "name": "Tag names in SASS",
       "scope": ["entity.name.tag.scss", "entity.name.tag.sass"],
       "settings": {
-        "foreground": "#ff5572"
+        "foreground": "#F07178"
       }
     },
     {
@@ -1250,7 +1250,7 @@
         "meta.type.parameters.tsx entity.name.type"
       ],
       "settings": {
-        "foreground": "#eeffff"
+        "foreground": "#82AAFF"
       }
     },
     {
@@ -1314,7 +1314,7 @@
       "name": "handlebars enitity attribute values",
       "scope": "entity.other.attribute-value.handlebars variable.parameter.handlebars",
       "settings": {
-        "foreground": "#8691EA"
+        "foreground": "#F78C6C"
       }
     },
     {
