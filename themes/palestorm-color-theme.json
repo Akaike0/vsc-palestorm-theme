@@ -1508,7 +1508,7 @@
 
     "terminal.background": "#222634",
     "terminal.foreground": "#7b85ac",
-    "terminal.selectionBackground": "#756f7d12",
+    "terminal.selectionBackground": "#717cb435",
     "terminal.border": "#474d64",
     "terminal.ansiBlack": "#414868",
     "terminal.ansiBlue": "#7aa2f7",
