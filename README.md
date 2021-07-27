@@ -6,7 +6,7 @@ A Palenight based theme with more contrast, features like semantic highlighting 
 
 ![Palestorm](https://raw.githubusercontent.com/Akaike0/vsc-palestorm-theme/main/palestorm_screenshot.png)
 
-- Folder icons: [@Material-Theme Icons Palenight](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) - not included
+- Folder icons: [@Material Theme Icons - Palenight](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme-icons) - not included
 - Product icons: [@Carbon Icons](https://marketplace.visualstudio.com/items?itemName=antfu.icons-carbon) - not included
 
 ## Installation
@@ -17,7 +17,7 @@ A Palenight based theme with more contrast, features like semantic highlighting 
 3. Go to Preferences > Color Theme and select Palestorm
 ```
 
-## Authors
+## Author
 
 - [@akaike](https://github.com/Akaike0)
 
